@@ -1,2 +1,2 @@
 # pdf_codepilot
-an repo combining bluebeam engineer and python pdf processing
+a repo combining bluebeam engineer and python pdf processing

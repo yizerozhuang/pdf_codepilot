@@ -1,0 +1,13 @@
+{
+    "input_scale": "100",
+    "input_size": "A1",
+    "input_custom_scale": "",
+    "input_custom_size_x": "",
+    "input_custom_size_y": "",
+    "output_scale": "custom",
+    "output_size": "A0",
+    "output_custom_scale": "75",
+    "output_custom_size_x": "",
+    "output_custom_size_y": "",
+    "template_type": "Restaurant"
+}

@@ -1,0 +1,23 @@
+{
+    "sketch_combine_files_list": [
+        "P:/404000BL-1-3 Ricketty Street, Mascot/External/H110 Ground Floor Hydraulic Services Layout.pdf",
+        "P:/404000BL-1-3 Ricketty Street, Mascot/External/H111 Ground Floor Fire Hydrant & Fire Hose Reel Coverage Plan.pdf",
+        "P:/404000BL-1-3 Ricketty Street, Mascot/External/H112 First Floor Fire Hydrant & Fire Hose Reel Coverage Plan.pdf",
+        "P:/404000BL-1-3 Ricketty Street, Mascot/External/H001 Legend of Symbols & General Notes.pdf",
+        "P:/404000BL-1-3 Ricketty Street, Mascot/External/H110 Ground Floor Hydraulic Services Layout.pdf",
+        "P:/404000BL-1-3 Ricketty Street, Mascot/External/H111 Ground Floor Fire Hydrant & Fire Hose Reel Coverage Plan.pdf",
+        "P:/404000BL-1-3 Ricketty Street, Mascot/External/H112 First Floor Fire Hydrant & Fire Hose Reel Coverage Plan.pdf",
+        "P:/404000BL-1-3 Ricketty Street, Mascot/External/H001 Legend of Symbols & General Notes.pdf"
+    ],
+    "input_scale": "50",
+    "input_size": "A2",
+    "input_custom_scale": "",
+    "input_custom_size_x": "",
+    "input_custom_size_y": "",
+    "output_scale": "100",
+    "output_size": "A3",
+    "output_custom_scale": "",
+    "output_custom_size_x": "",
+    "output_custom_size_y": "",
+    "template_type": "Restaurant"
+}

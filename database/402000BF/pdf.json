@@ -1,0 +1,19 @@
+{
+    "sketch_combine_files_list": [
+        "P:/403042-Suite 1002, 180-186 burwood road, Burwood/External/772fbdb63f6638724aa07a5f30f4c82.jpg",
+        "P:/403042-Suite 1002, 180-186 burwood road, Burwood/External/a7af2f3f105505de8b25b5c12bdd77f.jpg",
+        "P:/403042-Suite 1002, 180-186 burwood road, Burwood/External/email.eml",
+        "P:/403042-Suite 1002, 180-186 burwood road, Burwood/External/for mechanical system.pdf"
+    ],
+    "input_scale": "50",
+    "input_size": "A3",
+    "input_custom_scale": "",
+    "input_custom_size_x": "",
+    "input_custom_size_y": "",
+    "output_scale": "50",
+    "output_size": "A3",
+    "output_custom_scale": "",
+    "output_custom_size_x": "",
+    "output_custom_size_y": "",
+    "template_type": "Restaurant"
+}

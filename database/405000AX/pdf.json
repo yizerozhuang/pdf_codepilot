@@ -1,0 +1,20 @@
+{
+    "sketch_combine_files_list": [
+        "C:/Users/Admin/Desktop/bluebeam javascript test environment/M103-BASEMENT-01---HVAC-SERVICES-Rev.B.pdf",
+        "C:/Users/Admin/Desktop/bluebeam javascript test environment/M104-GROUND-FLOOR---HVAC-SERVICES-Rev.B.pdf",
+        "C:/Users/Admin/Desktop/bluebeam javascript test environment/M105-GROUND-FLOOR---HVAC-SERVICES-Rev.2.pdf",
+        "C:/Users/Admin/Desktop/bluebeam javascript test environment/M100-BASEMENT-04---HVAC-SERVICES-Rev.B.pdf",
+        "C:/Users/Admin/Desktop/bluebeam javascript test environment/M101-BASEMENT-03---HVAC-SERVICES-Rev.B.pdf",
+        "C:/Users/Admin/Desktop/bluebeam javascript test environment/M102-BASEMENT-02---HVAC-SERVICES-Rev.B.pdf"
+    ],
+    "input_scale": "50",
+    "input_size": "A3",
+    "input_custom_scale": "",
+    "input_custom_size_x": "",
+    "input_custom_size_y": "",
+    "output_scale": "50",
+    "output_size": "A3",
+    "output_custom_scale": "",
+    "output_custom_size_x": "",
+    "output_custom_size_y": ""
+}

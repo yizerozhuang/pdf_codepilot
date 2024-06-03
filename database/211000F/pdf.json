@@ -1,0 +1,25 @@
+{
+    "sketch_combine_files_list": [
+        "P:/211000F-1A Hill Street, Hurstville/External/4.0 Proposed s4.55(2) Architectural/s4.55_2-Arch Level 5 Floor Plan.pdf",
+        "P:/211000F-1A Hill Street, Hurstville/External/4.0 Proposed s4.55(2) Architectural/s4.55_2-Arch Level 6 Floor Plan.pdf",
+        "P:/211000F-1A Hill Street, Hurstville/External/4.0 Proposed s4.55(2) Architectural/s4.55_2-Arch Level 7 Floor Plan.pdf",
+        "P:/211000F-1A Hill Street, Hurstville/External/4.0 Proposed s4.55(2) Architectural/s4.55_2-Arch Level 8 Floor Plan.pdf",
+        "P:/211000F-1A Hill Street, Hurstville/External/4.0 Proposed s4.55(2) Architectural/s4.55_2-Arch Level 9 Floor Plan.pdf",
+        "P:/211000F-1A Hill Street, Hurstville/External/4.0 Proposed s4.55(2) Architectural/s4.55_2-Arch Level 10 Floor Plan.pdf",
+        "P:/211000F-1A Hill Street, Hurstville/External/4.0 Proposed s4.55(2) Architectural/s4.55_2-Arch Level 11 Floor Plan.pdf",
+        "P:/211000F-1A Hill Street, Hurstville/External/4.0 Proposed s4.55(2) Architectural/s4.55_2-Arch Level 2 Floor Plan.pdf",
+        "P:/211000F-1A Hill Street, Hurstville/External/4.0 Proposed s4.55(2) Architectural/s4.55_2-Arch Level 3 Floor Plan.pdf",
+        "P:/211000F-1A Hill Street, Hurstville/External/4.0 Proposed s4.55(2) Architectural/s4.55_2-Arch Level 4 Floor Plan.pdf"
+    ],
+    "input_scale": "100",
+    "input_size": "A2",
+    "input_custom_scale": "",
+    "input_custom_size_x": "",
+    "input_custom_size_y": "",
+    "output_scale": "50",
+    "output_size": "A3",
+    "output_custom_scale": "",
+    "output_custom_size_x": "",
+    "output_custom_size_y": "",
+    "template_type": "Restaurant"
+}
